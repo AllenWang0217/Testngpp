@@ -1,0 +1,977 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunk/mockcpp/include/mockcpp
+END
+CallerMatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/CallerMatcher.h
+END
+InvocationMocker.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/InvocationMocker.h
+END
+InvokedAtLeast.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/InvokedAtLeast.h
+END
+StubContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/StubContainer.h
+END
+ThrowExceptionStub.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/ThrowExceptionStub.h
+END
+ChainableMockMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/ChainableMockMethod.h
+END
+DestructorAddrGetterDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/DestructorAddrGetterDef.h
+END
+StubBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/StubBuilder.h
+END
+VoidResultHandlerFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/VoidResultHandlerFactory.h
+END
+InvokedTimesRecorder.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/InvokedTimesRecorder.h
+END
+DestructorAddrGetterDef.h.rule
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/DestructorAddrGetterDef.h.rule
+END
+DummyBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/DummyBuilder.h
+END
+OutputStringStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/OutputStringStream.h
+END
+InvocationMockBuilderGetter.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/InvocationMockBuilderGetter.h
+END
+CApiHookKey.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/CApiHookKey.h
+END
+MethodIndiceCheckerDef.h.rule
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/MethodIndiceCheckerDef.h.rule
+END
+CallerMatchBuilder.tcc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/CallerMatchBuilder.tcc
+END
+MsvcMethodInfoReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12/trunk/mockcpp/include/mockcpp/MsvcMethodInfoReader.h
+END
+ArgumentsMatchBuilder.tcc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/ArgumentsMatchBuilder.tcc
+END
+IndexInvokableGetter.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/IndexInvokableGetter.h
+END
+NormalResultHandlerFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/NormalResultHandlerFactory.h
+END
+TypelessConstraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/TypelessConstraint.h
+END
+VirtualTableUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/VirtualTableUtils.h
+END
+ArgumentsListDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/ArgumentsListDef.h
+END
+IgnoreHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/IgnoreHandler.h
+END
+MethodIndiceChecker.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/MethodIndiceChecker.h
+END
+ChainableMockMethodIndexKey.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/ChainableMockMethodIndexKey.h
+END
+InvokedAtMost.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/InvokedAtMost.h
+END
+ArgumentsMatchBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/ArgumentsMatchBuilder.h
+END
+mokc.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/mokc.h
+END
+GnuMethodInfoReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/GnuMethodInfoReader.h
+END
+ChainableMockMethodKey.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/ChainableMockMethodKey.h
+END
+DelegatedMethodGetter.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/DelegatedMethodGetter.h
+END
+SelfDescribe.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/SelfDescribe.h
+END
+DefaultBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/DefaultBuilder.h
+END
+DieStub.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/DieStub.h
+END
+IdentityBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/IdentityBuilder.h
+END
+Void.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/Void.h
+END
+IsStringContains.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/IsStringContains.h
+END
+IsEqual.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/IsEqual.h
+END
+ChainableMockObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/ChainableMockObject.h
+END
+StringConstraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/StringConstraint.h
+END
+MockObjectBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/MockObjectBase.h
+END
+GnuMethodIndicesChecker.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/GnuMethodIndicesChecker.h
+END
+DefaultMethodAddrGetterDef.h.rule
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/DefaultMethodAddrGetterDef.h.rule
+END
+StringPredict.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/StringPredict.h
+END
+IncrementStub.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/IncrementStub.h
+END
+RepeatMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/RepeatMacros.h
+END
+IsStringEndWith.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/IsStringEndWith.h
+END
+ArgumentsListDef.h.rule
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/ArgumentsListDef.h.rule
+END
+ObjNameGetter.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/ObjNameGetter.h
+END
+InvocationMockerSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/InvocationMockerSet.h
+END
+WorkingBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/WorkingBuilder.h
+END
+DefaultMatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/DefaultMatcher.h
+END
+MoreStubBuilder.tcc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/MoreStubBuilder.tcc
+END
+InvokedExactly.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/InvokedExactly.h
+END
+MismatchResultHandlerFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/MismatchResultHandlerFactory.h
+END
+TestFailureMatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/TestFailureMatcher.h
+END
+mockcpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/mockcpp.h
+END
+ThenStub.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/ThenStub.h
+END
+VirtualTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/VirtualTable.h
+END
+DecoratedConstraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/DecoratedConstraint.h
+END
+ArgumentsList.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/ArgumentsList.h
+END
+GlobalMockObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/GlobalMockObject.h
+END
+ProcStub.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/ProcStub.h
+END
+ChainableMockObjectBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/ChainableMockObjectBase.h
+END
+ResultHandlerFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/ResultHandlerFactory.h
+END
+WillStub.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/WillStub.h
+END
+IsMirror.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/IsMirror.h
+END
+InvocationWithReturnType.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/InvocationWithReturnType.h
+END
+IgnoreResultHandlerFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/IgnoreResultHandlerFactory.h
+END
+ReturnStub.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/ReturnStub.h
+END
+OrderingMatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/OrderingMatcher.h
+END
+RepeatStub.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/RepeatStub.h
+END
+MethodInfoReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/MethodInfoReader.h
+END
+InvocationTimesMatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/InvocationTimesMatcher.h
+END
+IgnoreResultHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/IgnoreResultHandler.h
+END
+Functor.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/Functor.h
+END
+Method.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/Method.h
+END
+IgnoreReturnStub.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/IgnoreReturnStub.h
+END
+Constraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/Constraint.h
+END
+AssertionFailedError.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/AssertionFailedError.h
+END
+BeforeMatchBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/BeforeMatchBuilder.h
+END
+MethodTypeTraitsDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/MethodTypeTraitsDef.h
+END
+ChainingMockHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/ChainingMockHelper.h
+END
+ChainableMockMethodCore.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/ChainableMockMethodCore.h
+END
+InvocationMockBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/InvocationMockBuilder.h
+END
+CApiHook.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/CApiHook.h
+END
+ConstraintSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/ConstraintSet.h
+END
+Formatter.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/Formatter.h
+END
+AfterMatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/AfterMatcher.h
+END
+DelegatedMethodGetByVptrDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/DelegatedMethodGetByVptrDef.h
+END
+BeforeMatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/BeforeMatcher.h
+END
+TypelessStubAdapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/TypelessStubAdapter.h
+END
+TypeTraits.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/TypeTraits.h
+END
+TypeString.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/TypeString.h
+END
+Invocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/Invocation.h
+END
+StatelessMatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/StatelessMatcher.h
+END
+IsStringStartWith.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/IsStringStartWith.h
+END
+DestructorChecker.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/DestructorChecker.h
+END
+Ignore.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/Ignore.h
+END
+Matcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/Matcher.h
+END
+CApiHookFunctor.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/CApiHookFunctor.h
+END
+MethodTypeTraitsDef.h.rule
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/MethodTypeTraitsDef.h.rule
+END
+MismatchResultHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/MismatchResultHandler.h
+END
+StubsMatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/StubsMatcher.h
+END
+BeforeMatchBuilder.tcc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/BeforeMatchBuilder.tcc
+END
+MethodTypeTraits.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/MethodTypeTraits.h
+END
+InterfaceInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/InterfaceInfo.h
+END
+InvocationMockBuilder.tcc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/InvocationMockBuilder.tcc
+END
+IsAnythingHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/IsAnythingHelper.h
+END
+mockable.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/mockable.h
+END
+Result.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/Result.h
+END
+MockObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/MockObject.h
+END
+MockObjectHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/MockObjectHelper.h
+END
+InvokedTimesReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/InvokedTimesReader.h
+END
+ChainableMockMethodContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/ChainableMockMethodContainer.h
+END
+PendingMatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/PendingMatcher.h
+END
+mockcpp.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/mockcpp.hpp
+END
+OutBound.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/OutBound.h
+END
+OutBoundPointer.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/OutBoundPointer.h
+END
+DelegatedMethodDef.h.rule
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/DelegatedMethodDef.h.rule
+END
+InvokedOnce.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/InvokedOnce.h
+END
+StubBuilder.tcc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/StubBuilder.tcc
+END
+AfterMatchBuilder.tcc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/AfterMatchBuilder.tcc
+END
+IsRef.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/IsRef.h
+END
+Invokable.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/Invokable.h
+END
+DelegatedMethodGetByVptrDef.h.rule
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/DelegatedMethodGetByVptrDef.h.rule
+END
+InvocationMockerContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/InvocationMockerContainer.h
+END
+DelegatedMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/DelegatedMethod.h
+END
+IsConst.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/IsConst.h
+END
+DefaultStub.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/DefaultStub.h
+END
+IsNotEqual.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/IsNotEqual.h
+END
+AfterMatchBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/AfterMatchBuilder.h
+END
+NormalResultHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/NormalResultHandler.h
+END
+InvocationId.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/InvocationId.h
+END
+VoidResultHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/VoidResultHandler.h
+END
+Exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/Exception.h
+END
+DelegatedMethodDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/DelegatedMethodDef.h
+END
+HookMockObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/HookMockObject.h
+END
+ReturnObjectList.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/ReturnObjectList.h
+END
+DelegatedMethodGetDef.h.rule
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/DelegatedMethodGetDef.h.rule
+END
+InvokedTimesMatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/InvokedTimesMatcher.h
+END
+TypelessStub.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/TypelessStub.h
+END
+MoreStubBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/MoreStubBuilder.h
+END
+SimpleInvocationRecorder.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/SimpleInvocationRecorder.h
+END
+ArgumentsMacroHelpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/ArgumentsMacroHelpers.h
+END
+DefaultMethodAddrGetterDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/DefaultMethodAddrGetterDef.h
+END
+MsvcRtti.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/MsvcRtti.h
+END
+ResultHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/ResultHandler.h
+END
+Stub.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/Stub.h
+END
+IsAnything.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/IsAnything.h
+END
+TypelessConstraintAdapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/TypelessConstraintAdapter.h
+END
+ExpectsMatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/ExpectsMatcher.h
+END
+CallerMatchBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/CallerMatchBuilder.h
+END
+InvocationMockerNamespace.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/InvocationMockerNamespace.h
+END
+Asserter.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/Asserter.h
+END
+ChainableMockMethodNameKey.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/ChainableMockMethodNameKey.h
+END
+EqualityUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/EqualityUtil.h
+END
+DelegatedMethodGetDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/DelegatedMethodGetDef.h
+END
+MethodIndiceCheckerDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/MethodIndiceCheckerDef.h
+END
+GenericMethodIndicesChecker.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12/trunk/mockcpp/include/mockcpp/GenericMethodIndicesChecker.h
+END

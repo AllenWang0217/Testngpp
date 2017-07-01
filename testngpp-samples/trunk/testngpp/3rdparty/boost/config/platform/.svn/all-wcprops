@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/platform
+END
+hpux.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/platform/hpux.hpp
+END
+qnxnto.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/platform/qnxnto.hpp
+END
+bsd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/platform/bsd.hpp
+END
+beos.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/platform/beos.hpp
+END
+irix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/platform/irix.hpp
+END
+solaris.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/platform/solaris.hpp
+END
+linux.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/platform/linux.hpp
+END
+cygwin.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/platform/cygwin.hpp
+END
+amigaos.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/platform/amigaos.hpp
+END
+aix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/platform/aix.hpp
+END
+macos.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/platform/macos.hpp
+END
+win32.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/platform/win32.hpp
+END

@@ -1,0 +1,43 @@
+10
+
+dir
+12
+http://testngpp-samples.googlecode.com/svn/trunk/testngpp
+http://testngpp-samples.googlecode.com/svn
+
+
+
+2010-02-28T09:26:04.942320Z
+12
+arthur.ii.yuan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+09cf5d66-22f6-11df-bff0-d338b04bc40e
+
+include
+dir
+
+testngpp
+dir
+
+lib
+dir
+
+bin
+dir
+
+3rdparty
+dir
+

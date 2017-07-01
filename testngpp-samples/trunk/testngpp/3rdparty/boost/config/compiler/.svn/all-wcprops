@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/compiler
+END
+sgi_mipspro.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/compiler/sgi_mipspro.hpp
+END
+sunpro_cc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/compiler/sunpro_cc.hpp
+END
+greenhills.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/compiler/greenhills.hpp
+END
+gcc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/compiler/gcc.hpp
+END
+digitalmars.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/compiler/digitalmars.hpp
+END
+compaq_cxx.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/compiler/compaq_cxx.hpp
+END
+metrowerks.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/compiler/metrowerks.hpp
+END
+mpw.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/compiler/mpw.hpp
+END
+kai.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/compiler/kai.hpp
+END
+visualc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/compiler/visualc.hpp
+END
+common_edg.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/compiler/common_edg.hpp
+END
+vacpp.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/compiler/vacpp.hpp
+END
+comeau.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/compiler/comeau.hpp
+END
+codegear.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/compiler/codegear.hpp
+END
+intel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/compiler/intel.hpp
+END
+gcc_xml.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/compiler/gcc_xml.hpp
+END
+hp_acc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/compiler/hp_acc.hpp
+END
+pgi.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/compiler/pgi.hpp
+END
+borland.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config/compiler/borland.hpp
+END

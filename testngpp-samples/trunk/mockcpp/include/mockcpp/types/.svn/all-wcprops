@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/types
+END
+Holder.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/types/Holder.h
+END
+PlaceHolder.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/types/PlaceHolder.h
+END
+AnyBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/types/AnyBase.h
+END
+AnyCast.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/types/AnyCast.h
+END
+RefAny.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/types/RefAny.h
+END
+Any.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/types/Any.h
+END
+ValueHolder.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/types/ValueHolder.h
+END
+RefHolder.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/11/trunk/mockcpp/include/mockcpp/types/RefHolder.h
+END

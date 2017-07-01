@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost
+END
+static_assert.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/static_assert.hpp
+END
+config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/config.hpp
+END

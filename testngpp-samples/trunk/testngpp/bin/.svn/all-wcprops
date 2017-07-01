@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/12/trunk/testngpp/bin
+END
+testngpp-win32-testcase-runner.exe
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12/trunk/testngpp/bin/testngpp-win32-testcase-runner.exe
+END
+testngpp-runner.exe
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12/trunk/testngpp/bin/testngpp-runner.exe
+END

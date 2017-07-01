@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VisualStudioToolFile
+	Name="TestGenerator"
+	Version="8.00"
+	>
+	<Rules>
+		<CustomBuildRule
+			Name="Test Generator"
+			DisplayName="TestGenerator"
+			CommandLine="python.exe &quot;..\..\..\testngpp\testngpp\generator\testngppgen.pyc&quot; -e gb2312 -o MyProjectTest.cc [inputs]"
+			Outputs="MyProjectTest.cc"
+			FileExtensions="*.h"
+			ExecutionDescription="Generating Test..."
+			>
+			<Properties>
+			</Properties>
+		</CustomBuildRule>
+	</Rules>
+</VisualStudioToolFile>

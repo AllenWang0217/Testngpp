@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/mpl/aux_/test
+END
+assert.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/mpl/aux_/test/assert.hpp
+END
+data.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/mpl/aux_/test/data.hpp
+END
+test_case.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/testngpp/3rdparty/boost/mpl/aux_/test/test_case.hpp
+END
